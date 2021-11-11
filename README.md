@@ -25,12 +25,13 @@
 </a>
 
 <h2>My knowledge when it comes to coding 💻</h2>
-<strong>Operating Systems I normally work on 💾</strong><br/>
+<h3><strong>Operating Systems I normally work on 💾</strong><br/></h3>
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png" width="50px" height="50px"/>
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/245f4571-14d4-4069-90a7-259b2971229f/del3rk1-177dea3e-01d6-4c32-bcfd-8927b7bc8364.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI0NWY0NTcxLTE0ZDQtNDA2OS05MGE3LTI1OWIyOTcxMjI5ZlwvZGVsM3JrMS0xNzdkZWEzZS0wMWQ2LTRjMzItYmNmZC04OTI3YjdiYzgzNjQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RDHFl6JxHrJPAZGg1gIyuGEOJCn9WMTLlNYVlu8Ql5E" width="50px" height="50px"/>
 </p>
-<strong>Languages and Frameworks I am confident working on ⌨️</strong>
+
+<h3><strong>Languages and Frameworks I am confident working on ⌨️</strong></h3>
 <p>
   <a href="https://www.javascript.com">
     <img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/javascript.gif" alt="JavaScript" width="50px" height="50px"/>
@@ -49,7 +50,7 @@
   </a>
 </p>
 
-<strong>Tools, Languages and Frameworks I am currently learning and working on ⚙️</strong>
+<h3><strong>Tools, Languages and Frameworks I am currently learning and working on ⚙️</strong></h3>
 <p>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
     <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C#" width="46px" height="50px"/>
@@ -62,7 +63,7 @@
   </a>
 </p>
 
-<strong>Languages and Frameworks I would like to get better at 🛠</strong>
+<h3><strong>Languages and Frameworks I would like to get better at 🛠</strong></h3>
 <p>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html">
     <img src="https://camo.githubusercontent.com/94ad70746d4c32151283a68c35e8ab44b05165a462745d8907dcf9d50e278188/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f667345615a6c644e43384131504a336d77702f736f757263652e676966" alt="CSS" width="50px" height="50px"/>
@@ -71,5 +72,4 @@
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="MongoDB" width="50px" height="50px"/>
   </a>
 </p>
-
 

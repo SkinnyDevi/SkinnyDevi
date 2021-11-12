@@ -61,6 +61,9 @@
   <a href="https://unity.com/">
     <img src="https://i.redd.it/tu3gt6ysfxq71.png" title="Unity" alt="Unity" width="50px" height="50px"/>
   </a>
+  <a href="https://git-scm.com/">
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="Git" alt="Git" width="50px" height="50px"/>
+  </a>
 </p>
 
 <h3><strong>Languages and Frameworks I would like to get better at 🛠</strong></h3>

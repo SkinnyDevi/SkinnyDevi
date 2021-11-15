@@ -37,16 +37,16 @@
     <img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/javascript.gif" title="JavaScript" alt="JavaScript" width="50px" height="50px"/>
   </a>
   <a href="https://www.python.org">
-    <img src="https://lh3.googleusercontent.com/proxy/jrY22cP1xTBg9piFJS2CS8FNnGgAb63wkCHEw7k6BUZuASs2tg-G9Q6PUy7EXgZhsBaEhkmobRxA90Uw0uw3RdsTYTzmptD0o1yc9XvppCoth1jp6nMY8-UaWChwkR10d8mMpe0LC37fN--vI3fyiRE" title="Python" alt="Python" width="50px" height="50px"/>
+    <img src="https://github.com/hussainweb/hussainweb/raw/main/icons/python.png" title="Python" alt="Python" width="50px" height="50px"/>
   </a>
   <a href="https://www.oracle.com/java/">
     <img src="https://cdn.worldvectorlogo.com/logos/java.svg" title="Java" alt="Java" width="50px" height="50px"/>
   </a>
-  <a href="https://www.python.org">
+  <a href="https://html5.org">
     <img src="https://raw.githubusercontent.com/otomer/otomer/master/assets/html.gif" title="HTML 5" alt="HTML5" width="50px" height="50px"/>
   </a>
   <a href="https://www.mysql.com">
-    <img src="https://key0.cc/images/small/18352_256ed090086d587f6779ec4879d5e716.png" title="MySQL" alt="MySQL" width="50px" height="50px"/>
+    <img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/mysql.png" title="MySQL" alt="MySQL" width="50px" height="50px"/>
   </a>
 </p>
 
@@ -87,7 +87,7 @@
 </p>
 <br/>  
 <p>Or you can simply send me an email: 
-  <a href="mailto: therumbleparadox@gmail.com">therumbleparadox@gmail.com</a>
+  <a href="mailto:therumbleparadox@gmail.com">therumbleparadox@gmail.com</a>
 </p>
 
 ---

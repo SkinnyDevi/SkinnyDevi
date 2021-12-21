@@ -87,7 +87,7 @@
 </p>
 <br/>  
 <p>Or you can simply send me an email: 
-  <a href="mailto:therumbleparadox@gmail.com">therumbleparadox@gmail.com</a>
+  <a href="mailto:skinnydevi.dev@gmail.com">skinnydevi.dev@gmail.com</a>
 </p>
 
 ---

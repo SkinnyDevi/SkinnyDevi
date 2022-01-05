@@ -9,7 +9,7 @@
 - 🎾 Sport isn't my forte, but I really like tennis and bowling.<br/>
 - 👓 My current favourite programming languages are <strong>Python</strong> and <strong>JavaScript</strong>.<br/>
 - 🍙 I really like Japan and watching anime.<br/>
-- 💾 I prefer backend over frontend.
+- 💾 I prefer the logic side of frontend and backend rather than designing frontend.
 
 <h2>What I'm currently working on👨🏽‍💻</h2>
 <a href="https://github.com/SkinnyDevi/MU-VR-Experience">

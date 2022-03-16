@@ -15,7 +15,7 @@
 <!-- <a href="https://github.com/SkinnyDevi/MU-VR-Experience">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkinnyDevi&repo=MU-VR-Experience&theme=dark" alt="Current Repo" width="400px" height="140px"/>
 </a> -->
-Learning ReactJS and Ruby on Rails for main project.
+Learning ReactJS and Ruby on Rails for main project.  
 Learning ReactJS + NextJS + Typescript for side project.
 
 <h2>Some side projects I like to work on for fun 🎲</h2>

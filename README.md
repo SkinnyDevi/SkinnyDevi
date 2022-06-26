@@ -18,11 +18,13 @@
 Learning ReactJS and Ruby on Rails for main project.
 <br />
 Learning ReactJS + NextJS + Typescript with Firebase Firestore for side project.
+<br />
+Making a Minecraft Mod for 1.18.2!
 
 <h2>Some side projects I like to work on for fun 🎲</h2>
-<a href="https://github.com/SkinnyDevi/SSBU-UMM-yuzu-compat">
+<!--<a href="https://github.com/SkinnyDevi/SSBU-UMM-yuzu-compat">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkinnyDevi&repo=SSBU-UMM-yuzu-compat&theme=tokyonight" alt="Fun Repo 1" width="400px" height="140px"/>
-</a>
+</a>-->
 <a href="https://github.com/SkinnyDevi/scriptable">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkinnyDevi&repo=scriptable&theme=tokyonight" alt="Fun Repo 2" width="400px" height="140px"/>
 </a>
@@ -38,6 +40,12 @@ Learning ReactJS + NextJS + Typescript with Firebase Firestore for side project.
 <p>
   <a href="https://www.javascript.com">
     <img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/javascript.gif" title="JavaScript" alt="JavaScript" width="50px" height="50px"/>
+  </a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html">
+    <img src="https://camo.githubusercontent.com/94ad70746d4c32151283a68c35e8ab44b05165a462745d8907dcf9d50e278188/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f667345615a6c644e43384131504a336d77702f736f757263652e676966" title="CSS" alt="CSS" width="50px" height="50px"/>
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2017/09/feature-react.png?ssl=1" title="ReactJS" alt="React JS" width="50px" height="50px"/>
   </a>
   <a href="https://www.python.org">
     <img src="https://github.com/hussainweb/hussainweb/raw/main/icons/python.png" title="Python" alt="Python" width="50px" height="50px"/>
@@ -55,15 +63,16 @@ Learning ReactJS + NextJS + Typescript with Firebase Firestore for side project.
 
 <h3><strong>Tools, Languages and Frameworks I am currently learning and working on ⚙️</strong></h3>
 <p>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" title="C#" alt="C#" width="46px" height="50px"/>
+  <a href="https://reactjs.org/">
+    <img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2017/09/feature-react.png?ssl=1" title="ReactJS" alt="React JS" width="50px" height="50px"/>
   </a>
-  <a href="https://expressjs.com">
-    <img src="https://camo.githubusercontent.com/2b97405ead6d87cffc71126648f74f034ab9b77525453aaac85ca79248532854/68747470733a2f2f766567696269742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f657870726573736a732e706e67" title="Express JS" alt="NodeJS Express" width="200px" height="50px"/>
+  <a href="https://rubyonrails.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" title="RubyOnRails" alt="Ruby On Rails" width="150px" height="50px"/>
   </a>
-  <a href="https://unity.com/">
-    <img src="https://i.redd.it/tu3gt6ysfxq71.png" title="Unity" alt="Unity" width="50px" height="50px"/>
+  <a href="https://docs.minecraftforge.net/en/1.18.x/">
+    <img src="https://docs.minecraftforge.net/en/1.18.x/images/logo.svg" title="MCForge" alt="MC Forge" width="150px" height="50px"/>
   </a>
+  
   <a href="https://git-scm.com/">
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="Git" alt="Git" width="50px" height="50px"/>
   </a>
@@ -71,9 +80,6 @@ Learning ReactJS + NextJS + Typescript with Firebase Firestore for side project.
 
 <h3><strong>Languages and Frameworks I would like to get better at 🛠</strong></h3>
 <p>
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html">
-    <img src="https://camo.githubusercontent.com/94ad70746d4c32151283a68c35e8ab44b05165a462745d8907dcf9d50e278188/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f667345615a6c644e43384131504a336d77702f736f757263652e676966" title="CSS" alt="CSS" width="50px" height="50px"/>
-  </a>
   <a href="https://www.mongodb.com">
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" title="MongoDB" alt="MongoDB" width="50px" height="50px"/>
   </a>

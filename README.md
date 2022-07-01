@@ -101,3 +101,4 @@ Making a Minecraft Mod for 1.18.2!
 
 ---
 <h2>Thanks for passing by! <img src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif' alt='Wave!' width="32px"  height="32px"/></h2>
+<h1>I like bros niggas</h1>

@@ -22,9 +22,9 @@ Learning ReactJS + NextJS + Typescript with Firebase Firestore for side project.
 Making a Minecraft Mod for 1.18.2!
 
 <h2>Some side projects I like to work on for fun 🎲</h2>
-<!--<a href="https://github.com/SkinnyDevi/SSBU-UMM-yuzu-compat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkinnyDevi&repo=SSBU-UMM-yuzu-compat&theme=tokyonight" alt="Fun Repo 1" width="400px" height="140px"/>
-</a>-->
+<a href="https://github.com/SkinnyDevi/birbia-station-bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkinnyDevi&repo=birbia-station-bot&theme=tokyonight" alt="Fun Repo 1" width="400px" height="140px"/>
+</a>
 <a href="https://github.com/SkinnyDevi/scriptable">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkinnyDevi&repo=scriptable&theme=tokyonight" alt="Fun Repo 2" width="400px" height="140px"/>
 </a>

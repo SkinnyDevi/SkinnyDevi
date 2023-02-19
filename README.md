@@ -13,7 +13,7 @@
 
 <h2>What I'm currently working on👨🏽‍💻</h2>
 <a href="https://github.com/SkinnyDevi/birbia-station-bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkinnyDevi&repo=birbia-station-bot&theme=tokyonight" alt="Fun Repo 1" width="400px" height="140px"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkinnyDevi&repo=birbia-station-bot&theme=tokyonight" alt="Current Repo" width="400px" height="140px"/>
 </a>
 
 <h2>Some side projects I like to work on for fun 🎲</h2>

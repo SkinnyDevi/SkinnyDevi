@@ -12,13 +12,16 @@
 - 💾 I prefer the logic side of frontend and backend rather than designing frontend.
 
 <h2>What I'm currently working on👨🏽‍💻</h2>
-<a href="https://github.com/SkinnyDevi/birbia-station-bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkinnyDevi&repo=birbia-station-bot&theme=tokyonight" alt="Current Repo" width="400px" height="140px"/>
+<a href="https://github.com/SkinnyDevi/localwave">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkinnyDevi&repo=localwave&theme=tokyonight" alt="Current Repo" width="400px" height="140px"/>
 </a>
 
 <h2>Some side projects I like to work on for fun 🎲</h2>
 <a href="https://github.com/SkinnyDevi/scriptable">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkinnyDevi&repo=scriptable&theme=tokyonight" alt="Fun Repo 2" width="400px" height="140px"/>
+</a>
+<a href="https://github.com/SkinnyDevi/birbia-station-bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkinnyDevi&repo=birbia-station-bot&theme=tokyonight" alt="Fun Repo 2" width="400px" height="140px"/>
 </a>
 
 <h2>My knowledge when it comes to coding 💻</h2>
@@ -51,20 +54,13 @@
   <a href="https://www.mysql.com">
     <img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/mysql.png" title="MySQL" alt="MySQL" width="50px" height="50px"/>
   </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" title="TypeScript" alt="TypeScript" width="50px" height="50px"/>
+  </a>
 </p>
 
 <h3><strong>Tools, Languages and Frameworks I am currently learning and working on ⚙️</strong></h3>
 <p>
-  <a href="https://reactjs.org/">
-    <img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2017/09/feature-react.png?ssl=1" title="ReactJS" alt="React JS" width="50px" height="50px"/>
-  </a>
-  <a href="https://rubyonrails.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" title="RubyOnRails" alt="Ruby On Rails" width="150px" height="50px"/>
-  </a>
-  <a href="https://docs.minecraftforge.net/en/1.18.x/">
-    <img src="https://docs.minecraftforge.net/en/1.18.x/images/logo.svg" title="MCForge" alt="MC Forge" width="150px" height="50px"/>
-  </a>
-  
   <a href="https://git-scm.com/">
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="Git" alt="Git" width="50px" height="50px"/>
   </a>

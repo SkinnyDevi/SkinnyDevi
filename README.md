@@ -18,6 +18,9 @@
 <a href="https://github.com/SkinnyDevi/songs-of-war-mod">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkinnyDevi&repo=songs-of-war-mod&theme=tokyonight" alt="Current Repo" width="400px" height="140px"/>
 </a>
+<a href="https://github.com/SkinnyDevi/server-chat-ext">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkinnyDevi&repo=server-chat-ext&theme=tokyonight" alt="Current Repo" width="400px" height="140px"/>
+</a>
 
 <h2>Some side projects I like to work on for fun 🎲</h2>
 <a href="https://github.com/SkinnyDevi/scriptable">

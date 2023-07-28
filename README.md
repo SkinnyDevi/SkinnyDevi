@@ -73,12 +73,15 @@
   <a href="https://git-scm.com/">
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="Git" alt="Git" width="50px" height="50px"/>
   </a>
+  <a href="https://docs.minecraftforge.net/en/latest/">
+    <img src="https://files.minecraftforge.net/static/images/embed_logo.png" title="Minecraft Forge" alt="Minecraft Forge" width="62.5px" height="50px"/>
+  </a>
 </p>
 
 <h3><strong>Languages and Frameworks I would like to get better at 🛠</strong></h3>
 <p>
-  <a href="https://www.mongodb.com">
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" title="MongoDB" alt="MongoDB" width="50px" height="50px"/>
+  <a href="https://docs.minecraftforge.net/en/latest/">
+    <img src="https://files.minecraftforge.net/static/images/embed_logo.png" title="Minecraft Forge" alt="Minecraft Forge" width="62.5px" height="50px"/>
   </a>
 </p>
 
@@ -86,10 +89,10 @@
 <h3>I'm available in the following social media:</h3>
 <p>
   <a href="https://github.com/SkinnyDevi">
-    <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/github.svg" title="SkinnyDevi" alt="GitHub" width="40px" height="40px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" title="SkinnyDevi" alt="GitHub" width="40px" height="40px"/>
   </a>
-  <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/discord.svg" title="SkinnyDevi#1225" alt="Discord" width="40px" height="40px"/>
-  <br/>Discord - SkinnyDevi#1225
+  <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" title="skinnydevi" alt="Discord" width="40px" height="40px"/>
+  <br/>Discord - skinnydevi
 </p>
 <br/>  
 <p>Or you can simply send me an email: 

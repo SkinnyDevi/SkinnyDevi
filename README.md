@@ -12,11 +12,11 @@
 - 💾 I prefer the logic side of frontend and backend rather than designing frontend.
 
 <h2>What I'm currently working on👨🏽‍💻</h2>
+<a href="https://github.com/SkinnyDevi/birbia-station-bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkinnyDevi&repo=birbia-station-bot&theme=tokyonight" alt="Fun Repo 2" width="400px" height="140px"/>
+</a>
 <a href="https://github.com/SkinnyDevi/playtimelimiter">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkinnyDevi&repo=playtimelimiter&theme=tokyonight" alt="Current Repo" width="400px" height="140px"/>
-</a>
-<a href="https://github.com/SkinnyDevi/songs-of-war-mod">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkinnyDevi&repo=songs-of-war-mod&theme=tokyonight" alt="Current Repo" width="400px" height="140px"/>
 </a>
 <a href="https://github.com/SkinnyDevi/server-chat-ext">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkinnyDevi&repo=server-chat-ext&theme=tokyonight" alt="Current Repo" width="400px" height="140px"/>
@@ -29,11 +29,11 @@
 <a href="https://github.com/SkinnyDevi/scriptable">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkinnyDevi&repo=scriptable&theme=tokyonight" alt="Fun Repo 2" width="400px" height="140px"/>
 </a>
-<a href="https://github.com/SkinnyDevi/birbia-station-bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkinnyDevi&repo=birbia-station-bot&theme=tokyonight" alt="Fun Repo 2" width="400px" height="140px"/>
-</a>
 <a href="https://github.com/SkinnyDevi/localwave">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkinnyDevi&repo=localwave&theme=tokyonight" alt="Current Repo" width="400px" height="140px"/>
+</a>
+<a href="https://github.com/SkinnyDevi/songs-of-war-mod">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkinnyDevi&repo=songs-of-war-mod&theme=tokyonight" alt="Current Repo" width="400px" height="140px"/>
 </a>
 
 <h2>My knowledge when it comes to coding 💻</h2>

@@ -79,6 +79,9 @@
   <a href="https://docs.minecraftforge.net/en/latest/">
     <img src="https://files.minecraftforge.net/static/images/embed_logo.png" title="Minecraft Forge" alt="Minecraft Forge" width="62.5px" height="50px"/>
   </a>
+  <a href="https://docs.minecraftforge.net/en/latest/">
+    <img src="https://www.gradio.app/favicon.png" title="Gradio Python Framework" alt="Gradio Python Framework" width="50px" height="50px"/>
+  </a>
 </p>
 
 <h3><strong>Languages and Frameworks I would like to get better at 🛠</strong></h3>

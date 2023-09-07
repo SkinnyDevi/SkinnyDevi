@@ -11,7 +11,7 @@
 - 🍙 I really like Japan and watching anime.<br/>
 - 💾 I prefer the logic side of frontend and backend rather than designing frontend.
 
-<h2>Projects that I've made and make me proud</h2>
+<h2>Projects that I've made and make me proud 😄</h2>
 <a href="https://github.com/SkinnyDevi/birbia-station-bot">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkinnyDevi&repo=birbia-station-bot&theme=tokyonight" alt="Fun Repo 2" width="400px" height="140px"/>
 </a>

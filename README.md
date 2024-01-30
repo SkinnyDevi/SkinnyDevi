@@ -9,7 +9,7 @@
 - 🎾 Sport isn't my forte, but I really like tennis and bowling.<br/>
 - 👓 My current favourite programming languages are <strong>Python</strong> and <strong>JavaScript</strong>.<br/>
 - 🍙 I really like Japan and watching anime.<br/>
-- 💾 I prefer the logic side of frontend and backend rather than designing frontend.
+- 💾 I prefer the logic side of frontend and backend rather than styling the frontend.
 
 <h2>Projects that I've made and make me proud 😄</h2>
 <a href="https://github.com/SkinnyDevi/birbia-station-bot">
@@ -57,7 +57,7 @@
     <img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/javascript.gif" title="JavaScript" alt="JavaScript" width="50px" height="50px"/>
   </a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html">
-    <img src="https://camo.githubusercontent.com/94ad70746d4c32151283a68c35e8ab44b05165a462745d8907dcf9d50e278188/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f667345615a6c644e43384131504a336d77702f736f757263652e676966" title="CSS" alt="CSS" width="50px" height="50px"/>
+    <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" title="CSS" alt="CSS" width="55px" height="55px"/>
   </a>
   <a href="https://reactjs.org/">
     <img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2017/09/feature-react.png?ssl=1" title="ReactJS" alt="React JS" width="50px" height="50px"/>

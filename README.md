@@ -2,7 +2,7 @@
 <img src="https://static.wikia.nocookie.net/animal-jam-clans-1/images/1/1c/Made_by_1041uuu.gif/revision/latest?cb=20210406230318" title="This fish pond looks really nice :)" alt="Fish ponds are nice :)"/>
 
 <h2>Some facts about me 💬</h2>
-- 🚀 I'm currently learning software development for cross-platform apps.<br/>
+- 🚀 I'm currently learning software development and studying computer science in university.<br/>
 - 🎮 I love to play videogames, and I strive to be able to make them in a near future.<br/>
 - 🎧 Music is something I cannot live without. I mainly listen to dubstep/electronic music!<br/>
 - 🌑 I really like coding at night, although working in the morning makes a better schedule.<br/>

@@ -81,14 +81,14 @@
 
 <h3><strong>Tools, Languages and Frameworks I am currently learning and working on ⚙️</strong></h3>
 <p>
-  <a href="https://git-scm.com/">
-    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="Git" alt="Git" width="50px" height="50px"/>
-  </a>
   <a href="https://docs.minecraftforge.net/en/latest/">
     <img src="https://files.minecraftforge.net/static/images/embed_logo.png" title="Minecraft Forge" alt="Minecraft Forge" width="62.5px" height="50px"/>
   </a>
-  <a href="https://docs.minecraftforge.net/en/latest/">
+  <a href="https://www.gradio.app/">
     <img src="https://www.gradio.app/favicon.png" title="Gradio Python Framework" alt="Gradio Python Framework" width="50px" height="50px"/>
+  </a>
+  <a href="https://svelte.dev/">
+    <img width="50px" height="50px" alt="SvelteKit" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/388e4ae6ead6fbdd3de1da4e2129db69c4ab9e9d/public/icons/svelte/svelte.svg"/>
   </a>
 </p>
 

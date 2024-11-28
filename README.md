@@ -26,6 +26,9 @@
 </a>
 
 <h2>What I'm currently working on👨🏽‍💻</h2>
+<a href="https://github.com/SkinnyDevi/skdv_comfyui">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkinnyDevi&repo=skdv_comfyui&theme=tokyonight" alt="Repo" width="400px" height="140px"/>
+</a>
 <a href="https://github.com/SkinnyDevi/modern-acgcag">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkinnyDevi&repo=modern-acgcag&theme=tokyonight" alt="Repo" width="400px" height="140px"/>
 </a>

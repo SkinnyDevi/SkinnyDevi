@@ -129,6 +129,9 @@
   <a href="https://isocpp.org/">
     <img width="50px" height="50px" alt="C++ Lang" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/500px-ISO_C%2B%2B_Logo.svg.png"/>
   </a>
+  <a href="https://rubyonrails.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/960px-Ruby_On_Rails_Logo.svg.png" title="Ruby On Rails" alt="Ruby On Rails" width="100px" height="50px"/>
+  </a>
   <a href="https://spring.io/projects/spring-boot">
     <img width="100px" height="50px" alt="Springboot" src="https://static.wixstatic.com/media/d68b13_81394694d2b6453f92290e6260381313~mv2.png/v1/fill/w_568,h_298,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/d68b13_81394694d2b6453f92290e6260381313~mv2.png"/>
   </a>

@@ -6,7 +6,7 @@
 
 <h2>Some facts about me 💬</h2>
 - 🚀 I'm currently learning software development and studying computer science in university.<br/>
-- 💾 I prefer the logic side of frontend and backend rather than styling the frontend.
+- 💾 I prefer the logic side of frontend and backend rather than styling the frontend.<br/>
 - 🎮 Videogames are very entertaining and I aim to be build one in a near future.<br/>
 - 🎧 Music is something I cannot live without. I mainly listen to EDM music!<br/>
 - 🌑 I really like coding at night, although working in the morning makes a better schedule.<br/>

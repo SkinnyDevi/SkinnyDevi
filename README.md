@@ -32,8 +32,8 @@
 </a>
 
 <h2>What I'm currently working on👨🏽‍💻</h2>
-<a href="https://github.com/SkinnyDevi/.dotfiles">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=SkinnyDevi&repo=.dotfiles&theme=dark" alt="Working Repo 1" width="400px" height="140px"/>
+<a href="https://github.com/SkinnyDevi/celestial-engine">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=SkinnyDevi&repo=celestial-engine&theme=dark" alt="Working Repo 1" width="400px" height="140px"/>
 </a>
 
 <h2>Some side projects I like to work on for fun 🎲</h2>

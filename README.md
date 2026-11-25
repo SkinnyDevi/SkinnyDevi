@@ -30,9 +30,9 @@
 
 <img align="right" width="380" src="docs/images/fishpond.webp" alt="Pixel art koi fish pond" title="This fish pond looks really nice :)" />
 
-- 🚀 **Studying Computer Science** at university while sharpening my software development skills.
-- 💾 **Logic-first:** I enjoy backend systems and frontend architecture more than UI styling
-- 👓 **Go-to languages:** **Python** and **TypeScript**.
+- Currently finishing my **CS degree** and working on personal projects
+- I prefer **backend development** and **system architecture** over UI styling, but I can handle both
+- Making complex systems and managing automation makes work fun
 
 <br clear="both" />
 
